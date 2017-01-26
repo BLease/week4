@@ -1,0 +1,31 @@
+.thumbnail > img {
+  height: 200px;
+  position: relative;
+}
+.header {
+  text-align: center;
+  background-color: #46a9af;
+  margin-bottom: 20px;
+  font-family: "Open Sans Condensed";
+}
+h1 {
+  color: white;
+  font-size: 75px;
+}
+body {
+  background-color: rgba(70, 169, 175, 0.39);
+}
+.thumbnail {
+    position: relative;
+}
+
+.caption {
+    position: absolute;
+    bottom: 30%;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-family: "Yanone Kaffeesatz";
+    font-size: 50px;
+}
